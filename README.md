@@ -5,6 +5,6 @@ Power BI dashboard analyzing Plant Co.'s quantity performance — YTD vs PYTD va
 
 > An interactive business intelligence dashboard built with Power BI, analyzing quantity performance, profitability segmentation, and country-level sales trends for a plant distribution company.
 
-![Dashboard Preview](./image/plant-co image.png)
+![Dashboard Preview](./image/plant-co%20image.png)
 
 ---
